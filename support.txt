@@ -3,7 +3,7 @@
 Swipe through 20 seconds of a song. Keep the ones you like.
 
 Something not working, or an idea for the app? Email
-itay.bickson1@gmail.com and you will get a reply.
+AEI@earmatchapp.com and you will get a reply.
 
 ## Common questions
 
@@ -31,4 +31,4 @@ no account — deleting the app removes everything.
 
 EarMatch has no ads and no tracking. Read the privacy policy (privacy.html).
 
-EarMatch · itay.bickson1@gmail.com
+EarMatch · AEI@earmatchapp.com

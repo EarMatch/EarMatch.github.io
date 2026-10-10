@@ -1,0 +1,34 @@
+# EarMatch Support
+
+Swipe through 20 seconds of a song. Keep the ones you like.
+
+Something not working, or an idea for the app? Email
+itay.bickson1@gmail.com and you will get a reply.
+
+## Common questions
+
+**A song will not play.** EarMatch needs a connection to stream previews. If the card
+says “No internet”, check your Wi-Fi or mobile data. The odd song has no preview available
+in your country — skip it and the next one will play.
+
+**Can I use EarMatch without Apple Music?** Yes. Everything works without it: swiping,
+searching, saving, playlists and trophies. An Apple Music subscription only adds artist photos, better
+recommendations, and adding your liked songs straight to your library.
+
+**How do I get my songs into Spotify?** Open Saved, choose a playlist, tap Export and
+pick Spotify. It will show you how to move them across with the free TuneMyMusic website, which takes
+about a minute.
+
+**The songs are not my taste.** Open Settings from the profile button and choose
+“Reset what EarMatch learned”. That clears everything learned from your swipes and starts
+again, and keeps all your liked songs. Skipping the same artist three times also stops them appearing.
+
+**How do I delete my account?** Open Friends, tap the gear icon and choose Delete
+account. Everything stored on our servers is removed straight away. If you never used Friends, you have
+no account — deleting the app removes everything.
+
+## Privacy
+
+EarMatch has no ads and no tracking. Read the privacy policy (privacy.html).
+
+EarMatch · itay.bickson1@gmail.com

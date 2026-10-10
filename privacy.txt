@@ -1,0 +1,65 @@
+# EarMatch Privacy Policy
+
+Last updated: October 10, 2026
+
+**In short:** EarMatch has no ads and no tracking. Your liked songs, playlists and preferences stay on your phone. If you choose to use Friends, we store a small profile so the friends you accept can see it. We never sell your personal data.
+
+## What stays on your device
+
+EarMatch saves the following only on your iPhone, so the app can remember them between sessions:
+
+- The songs you like and the playlists you make
+- The artists you pick and the music taste the app learns from your likes and dislikes
+- Your app language and other settings
+
+Unless you use Friends (below), this information is never sent to us. It is deleted when you delete the app.
+
+## Friends (optional)
+
+Friends is optional, and the rest of EarMatch works without it. If you sign in to Friends (with Apple, Google, or an email and password), EarMatch stores the following on Google Firebase, which runs our servers:
+
+- An account ID and the email address of your Apple, Google or email account. With Apple's "Hide My Email", we get a private relay address instead of your real one. Your password is handled by Firebase and never seen by us.
+- The username you pick, the name you set in EarMatch, and a profile photo if you add one
+- How many trophies you've unlocked, which sets your level
+- Your profile: how many songs you've liked and swiped, your streaks, the trophies you've unlocked, your top artists and genres, your favorite songs and your 100 most recently liked songs
+- Your friends, the friend requests you send and receive, and the people you block
+
+Anyone signed in to Friends can find your username, name, photo and level by searching. Only people you've accepted as friends can see the rest of your profile. You can remove or block anyone at any time.
+
+If someone reports a profile, EarMatch opens the reporter's email app with a message to us containing the reported username, name and account ID, the reason and any note. We review reports and can remove a photo or an account that breaks the rules.
+
+To delete all of this, open Friends, tap the gear icon and choose Delete account. Your data is removed from our servers right away, and if you signed in with Apple or Google, EarMatch's access to that account is revoked. Google's handling of this data is covered by the Firebase privacy information (https://firebase.google.com/support/privacy).
+
+## Music from Apple
+
+To show you songs, EarMatch asks Apple's music services (the iTunes Search API and the Apple Music API) for charts, song previews, album artwork and artist details. These requests include your country, so you get local charts, and any artist or song names you search for. Short song previews are stored temporarily on your phone while they play and are deleted later. Apple's handling of this information is covered by Apple's Privacy Policy (https://www.apple.com/legal/privacy/).
+
+If you allow EarMatch to access Apple Music, the app uses it to show artist photos and names, find artists similar to the ones you like, and add songs you choose to your Apple Music library. You can change this anytime in your iPhone's Settings.
+
+## Moving songs to other apps
+
+When you choose to open a song in Spotify, YouTube Music or Apple Music, EarMatch opens that app or website, and its own privacy policy applies. If you use the TuneMyMusic website to move a list of songs, the list you paste is handled by TuneMyMusic under its privacy policy (https://www.tunemymusic.com/privacy-policy). If you connect EarMatch to Spotify or YouTube to create a playlist, you sign in on their own pages, and the access they give EarMatch is used only to create that playlist and is not saved by us.
+
+## Reporting a song
+
+If you report a song, EarMatch opens your email app with a message to us containing the song's name, artist and Apple ID, the reason you chose, and any note you add. You see the email and decide whether to send it. We use reports only to review and remove songs, and the message comes from your own email address. Songs you hide or report are remembered only on your phone.
+
+## What we don't do
+
+- We don't use analytics or advertising tools.
+- We don't track you across other apps or websites.
+- We don't sell personal information, or share it with anyone other than the friends you accept.
+
+## Children
+
+EarMatch doesn't knowingly collect personal information from anyone, including children under 13.
+
+## Changes to this policy
+
+If this policy changes, the new version will be posted on this page with a new "Last updated" date.
+
+## Contact
+
+Questions about privacy? Email AEI@Earmatch.com.
+
+EarMatch, by Itay Bickson

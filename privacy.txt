@@ -1,6 +1,6 @@
 # EarMatch Privacy Policy
 
-Last updated: October 10, 2026
+Last updated: November 7, 2026
 
 **In short:** EarMatch has no ads and no tracking. Your liked songs, playlists and preferences stay on your phone. If you choose to use Friends, we store a small profile so the friends you accept can see it. We never sell your personal data.
 
@@ -11,6 +11,7 @@ EarMatch saves the following only on your iPhone, so the app can remember them b
 - The songs you like and the playlists you make
 - The artists you pick and the music taste the app learns from your likes and dislikes
 - Your app language and other settings
+- What EarMatch's home screen and lock screen widgets show: today's song, your streak and counts, and how many game invites are waiting
 
 Unless you use Friends (below), this information is never sent to us. It is deleted when you delete the app.
 
@@ -23,18 +24,24 @@ Friends is optional, and the rest of EarMatch works without it. If you sign in t
 - How many trophies you've unlocked, which sets your level
 - Your profile: how many songs you've liked and swiped, your streaks, the trophies you've unlocked, your top artists and genres, your favorite songs and your 100 most recently liked songs
 - Your friends, the friend requests you send and receive, and the people you block
+- Your "It's a match!" games: who played, both players' names, the songs in the game, which ones each player liked or skipped, and when each player finished
+- If you allow notifications: a notification ID for your phone and your app language, so we can tell you about friend requests, game invites and results in your language
 
 Anyone signed in to Friends can find your username, name and level by searching. Only people you've accepted as friends can see the rest of your profile. You can remove or block anyone at any time.
 
+Only the two players can see an "It's a match!" game, including which songs each of you liked. Either player can delete a game at any time. The songs you both liked go into a playlist with that friend, which is saved only on your phone.
+
+Notifications are delivered through Firebase Cloud Messaging and Apple's push notification service. You can turn them off anytime in your iPhone's Settings.
+
 If someone reports a profile, EarMatch opens the reporter's email app with a message to us containing the reported username, name and account ID, the reason and any note. We review reports and can remove a name or an account that breaks the rules.
 
-To delete all of this, open Friends, tap the gear icon and choose Delete account. Your data is removed from our servers right away, and if you signed in with Apple or Google, EarMatch's access to that account is revoked. Google's handling of this data is covered by the Firebase privacy information (https://firebase.google.com/support/privacy).
+To delete all of this, open Friends, tap the gear icon and choose Delete account. Your profile, friends, games and notification ID are removed from our servers right away, and if you signed in with Apple or Google, EarMatch's access to that account is revoked. Google's handling of this data is covered by the Firebase privacy information (https://firebase.google.com/support/privacy).
 
 ## Music from Apple
 
 To show you songs, EarMatch asks Apple's music services (the iTunes Search API and the Apple Music API) for charts, song previews, album artwork and artist details. These requests include your country, so you get local charts, and any artist or song names you search for. Short song previews are stored temporarily on your phone while they play and are deleted later. Apple's handling of this information is covered by Apple's Privacy Policy (https://www.apple.com/legal/privacy/).
 
-If you allow EarMatch to access Apple Music, the app uses it to show artist photos and names, find artists similar to the ones you like, and add songs you choose to your Apple Music library. You can change this anytime in your iPhone's Settings.
+If you allow EarMatch to access Apple Music, the app uses it to show artist photos and names, find artists similar to the ones you like, and add songs you choose to your Apple Music library. If you turn on automatic adding in Settings, every song you like is added to your "EarMatch Playlist" in Apple Music; songs waiting to be added are kept only on your phone, and nothing is ever removed from your Apple Music. You can turn this off in EarMatch's Settings, and change Apple Music access anytime in your iPhone's Settings.
 
 ## Moving songs to other apps
 
@@ -52,7 +59,7 @@ If you report a song, EarMatch opens your email app with a message to us contain
 
 ## Children
 
-EarMatch doesn't knowingly collect personal information from anyone, including children under 13.
+Most of EarMatch needs no account, and when you are signed out nothing personal is collected at all. Creating an account for Friends requires you to be at least 13 years old. We do not knowingly collect personal information from children under 13; if we learn that an account belongs to someone under 13 we delete the account and everything stored with it. A parent or guardian who believes we hold such information can write to AEI@earmatchapp.com and we will remove it.
 
 ## Changes to this policy
 

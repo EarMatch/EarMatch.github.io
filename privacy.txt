@@ -21,6 +21,7 @@ Friends is optional, and the rest of EarMatch works without it. If you sign in t
 
 - An account ID and the email address of your Apple, Google or email account. With Apple's "Hide My Email", we get a private relay address instead of your real one. Your password is handled by Firebase and never seen by us.
 - The username you pick, the name you set in EarMatch, and, if you choose one, a Memoji or Genmoji sticker as your profile picture (profiles can't have photos)
+- A record that your username belongs to your account, so no one else can take it while it's yours. Changing your username or deleting your account frees the old one
 - How many trophies you've unlocked, which sets your level
 - Your profile: how many songs you've liked and swiped, your streaks, the trophies you've unlocked, your top artists and genres, your favorite songs and your 100 most recently liked songs
 - Your friends, the friend requests you send and receive, and the people you block
@@ -32,7 +33,7 @@ Anyone signed in to Friends can find your username, name and level by searching.
 
 Only the two players can see an "It's a match!" game, including which songs each of you liked. Either player can delete a game at any time. The songs you both liked go into a playlist with that friend, which is saved only on your phone.
 
-Anyone in a party can see who else is in it, with their names, usernames and Memoji, and which songs each person liked. Any song at least two people like goes into the party playlist, which shows the Memoji of everyone who liked it; it is saved on each person's phone. You can invite friends, and anyone signed in who has the party code (or scans its QR code) can join while the party is open, so people in a party may not be your friends. Share a code only with people you want there. A party closes for new people after a day, and someone the host has blocked can't join. The host can end and delete a party for everyone, and anyone else can leave it at any time, which deletes their swipes.
+Anyone in a party can see who else is in it, with their names, usernames and Memoji, and which songs each person liked. Any song at least two people like goes into the party playlist, where anyone in the party can tap “Who liked this” on a song to see the names, usernames and Memoji of everyone who liked it. The playlist is saved on each person's phone. You can invite friends, and anyone signed in who has the party code (or scans its QR code) can join while the party is open, so people in a party may not be your friends. Share a code only with people you want there. A party closes for new people after a day, and someone the host has blocked can't join. The host can end and delete a party for everyone, and anyone else can leave it at any time, which deletes their swipes.
 
 Notifications are delivered through Firebase Cloud Messaging and Apple's push notification service. You can turn them off anytime in your iPhone's Settings.
 
